@@ -9,7 +9,7 @@
 ## Introduction
 
 Thus far, we have been using Ruby's IRB inside of the Learn In-Browser IDE.  As
-a quick reminder IDE stands for Integrated Development Environment: a set of
+a quick reminder, IDE stands for Integrated Development Environment: a set of
 tools that lets you read, write, and run code.  In "Programming as Conversation
 1" we were clicking in the small, black window at the bottom (the Terminal) and
 were running IRB there. Here we'll start using the rest of the IDE.
@@ -30,7 +30,7 @@ To tell Ruby to "read and run" a file, we use the command:
 
 By convention, as Ruby developers, we like to put `.rb` at the end of a file
 name. It's not required, but it's helpful to remind us that the contents are
-meant for **R**u**B**y. Eventually you might learn dozens of programming
+meant for **R**u**B**y. Eventually, you might learn dozens of programming
 languages, and it's helpful to have a little visual clue about which language
 knows how to read the conversation recorded inside.
 
@@ -72,7 +72,7 @@ Flatiron School cohort, you'll be using them all the time and will leave the
 In-Browser IDE behind.
 
 Right now, however, we want to make sure you're focused on "learning Ruby" not
-"learning to setup a development environment."
+"learning to configure a development environment."
 
 ## Conclusion
 
