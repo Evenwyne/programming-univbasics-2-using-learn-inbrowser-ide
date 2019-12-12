@@ -104,7 +104,7 @@ Click `example_file.rb` to open the file in the editor
 
 ![file editor](https://curriculum-content.s3.amazonaws.com/prework/in-browser-ide-file-editor.png)
 
-Anything Ruby code we write in here will get executed when the file is run.
+Any Ruby code we write in here will get executed when the file is run.
 Let's give this file something to do. In the file editor, write the following:
 
 ```rb
