@@ -24,9 +24,20 @@ demonstrate how to create and run a Ruby file.
 
 ## Before We Start
 
-If you have not used the Learn In-Browser IDE while following along, to quickly
-review: while viewing this lesson in Learn.co, in the upper-right section of the
-screen, you should see a **Sandbox*** button:
+If you have not used the Learn In-Browser IDE while following along, we'll
+quickly review it now. Before you can use the IDE you must connect a GitHub
+account to Learn. To connect a GitHub account, open the drop down menu in the
+upper right corner of this page, then click the **Manage Account** link.
+
+![manage account link](https://curriculum-content.s3.amazonaws.com/prework/manage-account-nav.png)
+
+While in the Account Management page, click **Connected Apps**. From this page,
+you will be able to navigate to GitHub and create an account, then connect that
+account to Learn. The In-Browser IDE uses GitHub (in addition, all your coding
+work through this course will get saved in GitHub as well).
+
+Okay, with a GitHub account connected, refresh this lesson page in your browser.
+In the upper-right section of the screen, you should see a **Sandbox*** button:
 
 ![Sandbox button](https://curriculum-content.s3.amazonaws.com/prework/sandbox-learn.png)
 
@@ -47,8 +58,15 @@ not currently present, we ask that you do two things:
    ![Ask a Question button](https://curriculum-content.s3.amazonaws.com/prework/AAQ_button.png)
 
 A lot of upcoming content will assume that you are able to access this IDE, so
-now is a good time to make sure you are set up. For additional information on the IDE,
-check out [this article][ide learn guide].
+now is a good time to make sure you are set up.
+
+> **Note:** If the Ask a Question button is grayed out, try refreshing the page.
+> If this does not resolve the issue, navigate to
+> [https://learn.co/](https://learn.co/) to return to this course's main page. The
+> Ask a Question should no longer be grayed out.
+
+For additional information on the IDE, check out
+[this article][ide learn guide].
 
 [ide learn guide]: https://help.learn.co/en/articles/1392337-ide-in-browser
 
