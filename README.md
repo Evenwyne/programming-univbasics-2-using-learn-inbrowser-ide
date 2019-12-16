@@ -42,18 +42,8 @@ In the upper-right section of the screen, you should see a **Sandbox*** button:
 ![Sandbox button](https://curriculum-content.s3.amazonaws.com/prework/sandbox-learn.png)
 
 Clicking this button will open the In-Browser IDE. If the **Sandbox** button is
-not currently present, we ask that you do two things:
-
-- In the upper-right section of the screen is a small gray button with a flag on
-  it. Clicking this button will start the process of opening an issue on this
-  lesson's GitHub repository. Please fill out the title and description and
-  submit an issue. Opening an issue here will help identify problems that may be
-  affecting multiple students.
-
-  ![Issue flag button](https://curriculum-content.s3.amazonaws.com/prework/issue_flag_button.png)
-
-- After creating an issue, click the Ask a Question button to connect with a
-  coach that can give you further guidance on the next steps.
+not currently present, please use the Ask a Question button to connect with a
+technical coach that can give you further guidance on the next steps.
 
    ![Ask a Question button](https://curriculum-content.s3.amazonaws.com/prework/AAQ_button.png)
 
@@ -65,13 +55,13 @@ now is a good time to make sure you are set up.
 > [https://learn.co/](https://learn.co/) to return to this course's main page. The
 > Ask a Question should no longer be grayed out.
 
+If everything is working as it should, clicking the **Sandbox** button will open
+the In-Browser IDE.
+
 For additional information on the IDE, check out
 [this article][ide learn guide].
 
 [ide learn guide]: https://help.learn.co/en/articles/1392337-ide-in-browser
-
-If everything is working as it should, clicking the **Sandbox** button will open
-the In-Browser IDE.
 
 ## Provide the Command to Run a File Through Ruby
 
