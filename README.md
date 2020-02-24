@@ -41,19 +41,10 @@ In the upper-right section of the screen, you should see a **Sandbox*** button:
 
 ![Sandbox button](https://curriculum-content.s3.amazonaws.com/prework/sandbox-learn.png)
 
-Clicking this button will open the In-Browser IDE. If the **Sandbox** button is
-not currently present, please use the Ask a Question button to connect with a
-technical coach that can give you further guidance on the next steps.
-
-   ![Ask a Question button](https://curriculum-content.s3.amazonaws.com/prework/AAQ_button.png)
-
-A lot of upcoming content will assume that you are able to access this IDE, so
-now is a good time to make sure you are set up.
-
-> **Note:** If the Ask a Question button is grayed out, try refreshing the page.
-> If this does not resolve the issue, navigate to
-> [https://learn.co/](https://learn.co/) to return to this course's main page. The
-> Ask a Question should no longer be grayed out.
+Clicking this button will open the In-Browser IDE. If you have connected your
+GitHub account, but do not see the Sandbox button, reach out to support@learn.co
+for further assistance. A lot of upcoming content will assume that you are able
+to access this IDE.
 
 If everything is working as it should, clicking the **Sandbox** button will open
 the In-Browser IDE.
@@ -147,7 +138,9 @@ Right now, however, we want to make sure you're focused on "learning Ruby" not
 If you're already familiar with the Terminal and command-line interface
 environment and would prefer to follow the lessons on your local computer, feel
 free to do so instead of using the Learn In-Browser IDE, just keep in mind that
-these materials may assume you're using the In-Browser IDE.
+these materials may assume you're using the In-Browser IDE. Lessons for
+configuring your local environment to work with Learn can be found at the end of
+this Prework track.
 
 ## Conclusion
 
